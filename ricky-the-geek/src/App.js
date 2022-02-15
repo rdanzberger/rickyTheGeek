@@ -7,7 +7,7 @@ function App() {
            
         <nav class="navbar navbar-expand-lg navbar-dark bg-primary fixed-top" id="sideNav">
             <a class="navbar-brand js-scroll-trigger" href="#page-top">
-                <span class="d-block d-lg-none">Clarence Taylor</span>
+                <span class="d-block d-lg-none">Ricky Danzberger</span>
                 <span class="d-none d-lg-block"><img class="img-fluid img-profile rounded-circle mx-auto mb-2" src="assets/img/profile.jpg" alt="..." /></span>
             </a>
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation"><span class="navbar-toggler-icon"></span></button>
@@ -16,7 +16,6 @@ function App() {
                     <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#about">About</a></li>
                     <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#experience">Experience</a></li>
                     <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#education">Education</a></li>
-                    <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#skills">Skills</a></li>
                     <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#interests">Interests</a></li>
                     <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#awards">Awards</a></li>
                 </ul>
@@ -35,7 +34,7 @@ function App() {
                         (717) 658 - 6010 ·         
                         <a href="mailto:name@email.com">rdanzjr@gmail.com</a>
                     </div>
-                    <p class="lead mb-5">Software Engineer, Gamer, Basement Dweller, and Doggo Head Pat Provider</p>
+                    <p class="lead mb-5">Software Engineer, Gamer, Basement Dweller, and Doggo head pat Provider (DhhP)</p>
                     <div class="social-icons">
                         <a class="social-icon" href="https://www.linkedin.com/in/rickydanzberger"><i class="fab fa-linkedin-in"></i></a>
                     </div>
@@ -50,7 +49,7 @@ function App() {
                         <div class="flex-grow-1">
                             <h3 class="mb-0">Assosciate Software Engineer</h3>
                             <div class="subheading mb-3">JPMorgan Chase & Co.</div>
-                            <p>Code Slinging Cowboy.</p>
+                            <p>Code Slinger</p>
                         </div>
                         <div class="flex-shrink-0"><span class="text-primary">March 2021 - Present</span></div>
                     </div>
@@ -58,7 +57,7 @@ function App() {
                         <div class="flex-grow-1">
                             <h3 class="mb-0">Systems Architect</h3>
                             <div class="subheading mb-3">Orrstown Bank</div>
-                            <p>Knower of the things.</p>
+                            <p>Technologist and Knower of the things.</p>
                         </div>
                         <div class="flex-shrink-0"><span class="text-primary">June 2009 - March 2021</span></div>
                     </div>
