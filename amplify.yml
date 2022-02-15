@@ -9,9 +9,9 @@ frontend:
       commands:
         - yarn run build
   artifacts:
-    baseDirectory: build
+    baseDirectory: ricky-the-geek/build
     files:
       - '**/*'
   cache:
     paths:
-      - node_modules/**/*
+      - node_modules/**/*np
