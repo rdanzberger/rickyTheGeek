@@ -35,7 +35,7 @@ function App() {
                         (717) 658 - 6010 ·         
                         <a href="mailto:name@email.com">rdanzjr@gmail.com</a>
                     </div>
-                    <p class="lead mb-5">Software Engineer, Gamer, Basement Dweller, and Doggo head pat Provider (DhhP)</p>
+                    <p class="lead mb-5">Software Engineer, Gamer, Basement Dweller, and Doggo head pat Provider (DhpP)</p>
                     <div class="social-icons">
                         <a class="social-icon" href="https://www.linkedin.com/in/rickydanzberger"><i class="fab fa-linkedin-in"></i></a>
                     </div>
