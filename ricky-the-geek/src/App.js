@@ -52,15 +52,15 @@ function App() {
                             <div class="subheading mb-3">JPMorgan Chase & Co.</div>
                             <p>Code Slinging Cowboy.</p>
                         </div>
-                        <div class="flex-shrink-0"><span class="text-primary">March 2013 - Present</span></div>
+                        <div class="flex-shrink-0"><span class="text-primary">March 2021 - Present</span></div>
                     </div>
                     <div class="d-flex flex-column flex-md-row justify-content-between mb-5">
                         <div class="flex-grow-1">
-                            <h3 class="mb-0">Systems Architecht</h3>
+                            <h3 class="mb-0">Systems Architect</h3>
                             <div class="subheading mb-3">Orrstown Bank</div>
                             <p>Knower of the things.</p>
                         </div>
-                        <div class="flex-shrink-0"><span class="text-primary">December 2011 - March 2013</span></div>
+                        <div class="flex-shrink-0"><span class="text-primary">June 2009 - March 2021</span></div>
                     </div>
                 </div>
             </section>
