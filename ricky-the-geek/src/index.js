@@ -3,7 +3,6 @@ import ReactDOM from 'react-dom';
 import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
-import 'https://use.fontawesome.com/releases/v5.15.4/js/all.js';
 import './assets/css/styles.css';
 
 
