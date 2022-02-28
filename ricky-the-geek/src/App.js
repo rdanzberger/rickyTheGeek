@@ -34,6 +34,7 @@ function App() {
                         <a href="mailto:name@email.com">rdanzjr@gmail.com</a>
                     </div>
                     <p class="lead mb-5">Software Engineer, Gamer, Billiard Player, Basement Dweller, and Doggo head pat Provider (DhpP)</p>
+                    <iframe class="align-items-center" width="560" height="315" src="https://www.youtube.com/embed/b6Z4mz5SrmU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                     <div class="social-icons">
                         <a class="social-icon" href="https://www.linkedin.com/in/rickydanzberger"><i class="fab fa-linkedin-in"></i></a>
                     </div>
@@ -85,6 +86,7 @@ function App() {
                     <h2 class="mb-5">Interests</h2>
                     <p>Apart from being an advocate of all things code, I enjoy the game of billiards.  I hold various titles in local league play, and local tournament play. </p>
                     <p>I also enjoy tinkering with whatever home automation routines to help enrich the "home" experience.</p>
+                    <p>eV owner - Chevy Volt 2019</p>
                 </div>
             </section>
             <hr class="m-0" />
