@@ -39,6 +39,7 @@ function App() {
                     <iframe class="align-items-center" width="560" height="315" src="https://www.youtube.com/embed/b6Z4mz5SrmU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                     <div class="social-icons">
                         <a class="social-icon" href="https://www.linkedin.com/in/rickydanzberger"><i class="fab fa-linkedin-in"></i></a>
+                        <a className="social-icon" href="https://github.com/rdanzberger"><i class="fab fa-github"></i></a>
                     </div>
                 </div>
             </section>
