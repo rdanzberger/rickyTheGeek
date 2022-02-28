@@ -1,5 +1,4 @@
 import logo from './logo.svg';
-import './App.css';
 import profilePic from './assets/img/profile.jpg';
 
 function App() {
@@ -18,7 +17,6 @@ function App() {
                     <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#experience">Experience</a></li>
                     <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#education">Education</a></li>
                     <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#interests">Interests</a></li>
-                    <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#awards">Awards</a></li>
                 </ul>
             </div>
         </nav>
@@ -35,7 +33,7 @@ function App() {
                         (717) 658 - 6010 ·         
                         <a href="mailto:name@email.com">rdanzjr@gmail.com</a>
                     </div>
-                    <p class="lead mb-5">Software Engineer, Gamer, Basement Dweller, and Doggo head pat Provider (DhpP)</p>
+                    <p class="lead mb-5">Software Engineer, Gamer, Billiard Player, Basement Dweller, and Doggo head pat Provider (DhpP)</p>
                     <div class="social-icons">
                         <a class="social-icon" href="https://www.linkedin.com/in/rickydanzberger"><i class="fab fa-linkedin-in"></i></a>
                     </div>
@@ -46,7 +44,7 @@ function App() {
             <section class="resume-section" id="experience">
                 <div class="resume-section-content">
                     <h2 class="mb-5">Experience</h2>
-                    <div class="d-flex flex-column flex-md-row justify-content-between mb-5">
+                    <div class="d-flex flex-column flex-md-row">
                         <div class="flex-grow-1">
                             <h3 class="mb-0">Assosciate Software Engineer</h3>
                             <div class="subheading mb-3">JPMorgan Chase & Co.</div>
@@ -85,23 +83,12 @@ function App() {
             <section class="resume-section" id="interests">
                 <div class="resume-section-content">
                     <h2 class="mb-5">Interests</h2>
-                    <p>Apart from being a software engineer....fill in the blanks...</p>
-                    <p class="mb-0">When forced indoors....</p>
+                    <p>Apart from being an advocate of all things code, I enjoy the game of billiards.  I hold various titles in local league play, and local tournament play. </p>
+                    <p>I also enjoy tinkering with whatever home automation routines to help enrich the "home" experience.</p>
                 </div>
             </section>
             <hr class="m-0" />
-            
-            <section class="resume-section" id="awards">
-                <div class="resume-section-content">
-                    <h2 class="mb-5">Awards & Certifications</h2>
-                    <ul class="fa-ul mb-0">
-                        <li>
-                            <span class="fa-li"><i class="fas fa-trophy text-warning"></i></span>
-                            Actively Pursuing - Assoc AWS Developer
-                        </li>
-                    </ul>
-                </div>
-            </section>    
+          
     </div>
     </div>
   );
