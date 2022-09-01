@@ -1,5 +1,6 @@
 import logo from './logo.svg';
 import profilePic from './assets/img/profile.jpg';
+import Slideshow from "./AboutMeSlides";
 
 function App() {
   return (
@@ -17,6 +18,7 @@ function App() {
                     <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#experience">Experience</a></li>
                     <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#education">Education</a></li>
                     <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#interests">Interests</a></li>
+                    <li className="nav-item"><a className="nav-link js-scroll-trigger" href="#gallery">Gallery</a></li>
                 </ul>
             </div>
         </nav>
@@ -37,6 +39,7 @@ function App() {
                     <iframe class="align-items-center" width="560" height="315" src="https://www.youtube.com/embed/b6Z4mz5SrmU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                     <div class="social-icons">
                         <a class="social-icon" href="https://www.linkedin.com/in/rickydanzberger"><i class="fab fa-linkedin-in"></i></a>
+                        <a className="social-icon" href="https://github.com/rdanzberger"><i class="fab fa-github"></i></a>
                     </div>
                 </div>
             </section>
@@ -87,6 +90,14 @@ function App() {
                     <p>Apart from being an advocate of all things code, I enjoy the game of billiards.  I hold various titles in local league play, and local tournament play. </p>
                     <p>I also enjoy tinkering with whatever home automation routines to help enrich the "home" experience.</p>
                     <p>eV owner - Chevy Volt 2019</p>
+                </div>
+            </section>
+            <section class="resume-section" id="gallery">
+                <div className="resume-section-content">
+                    <h2 class="mb-5">Gallery</h2>
+                    <div>
+                        <Slideshow />
+                    </div>
                 </div>
             </section>
             <hr class="m-0" />
