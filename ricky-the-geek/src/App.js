@@ -36,7 +36,6 @@ function App() {
                         <a href="mailto:name@email.com">rdanzjr@gmail.com</a>
                     </div>
                     <p class="lead mb-5">Software Engineer, Gamer, Billiard Player, Basement Dweller, and Doggo head pat Provider (DhpP)</p>
-                    <iframe class="align-items-center" width="560" height="315" src="https://www.youtube.com/embed/b6Z4mz5SrmU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                     <div class="social-icons">
                         <a class="social-icon" href="https://www.linkedin.com/in/rickydanzberger"><i class="fab fa-linkedin-in"></i></a>
                         <a className="social-icon" href="https://github.com/rdanzberger"><i class="fab fa-github"></i></a>
@@ -50,11 +49,19 @@ function App() {
                     <h2 class="mb-5">Experience</h2>
                     <div class="d-flex flex-column flex-md-row">
                         <div class="flex-grow-1">
+                            <h3 class="mb-0">Lead Software Engineer</h3>
+                            <div class="subheading mb-3">JPMorgan Chase</div>
+                            <p>Code Wrangler</p>
+                        </div>
+                        <div class="flex-shrink-0"><span class="text-primary">February 2023 - Present</span></div>
+                    </div>
+                    <div class="d-flex flex-column flex-md-row">
+                        <div class="flex-grow-1">
                             <h3 class="mb-0">Assosciate Software Engineer</h3>
                             <div class="subheading mb-3">JPMorgan Chase & Co.</div>
                             <p>Code Slinger</p>
                         </div>
-                        <div class="flex-shrink-0"><span class="text-primary">March 2021 - Present</span></div>
+                        <div class="flex-shrink-0"><span class="text-primary">March 2021 - February 2023</span></div>
                     </div>
                     <div class="d-flex flex-column flex-md-row justify-content-between mb-5">
                         <div class="flex-grow-1">
@@ -73,11 +80,20 @@ function App() {
                     <h2 class="mb-5">Education</h2>
                     <div class="d-flex flex-column flex-md-row justify-content-between mb-5">
                         <div class="flex-grow-1">
-                            <h3 class="mb-0">Purdue University</h3>
-                            <div class="subheading mb-3">Bachelor of Science</div>
-                            <div>Computer Science - Multiplatform Software Development Track</div>                    
+                            <h3 class="mb-0">Kutztown University</h3>
+                            <div class="subheading mb-3">Master of Science in Computer Science</div>
+                            <div>Software Development Focus</div>
                         </div>
-                        <div class="flex-shrink-0"><span class="text-primary">August 2015 - April 2018</span></div>
+                        <div class="flex-shrink-0"><span class="text-primary">August 2022 - Present</span></div>
+                    </div>
+                    <div className="d-flex flex-column flex-md-row justify-content-between mb-5">
+                        <div className="flex-grow-1">
+                            <h3 className="mb-0">Purdue University</h3>
+                            <div className="subheading mb-3">Bachelor of Science</div>
+                            <div>Computer Science - Multiplatform Software Development Track</div>
+                        </div>
+                        <div className="flex-shrink-0"><span className="text-primary">August 2015 - April 2018</span>
+                        </div>
                     </div>
                 </div>
             </section>           
