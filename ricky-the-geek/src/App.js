@@ -49,11 +49,19 @@ function App() {
                     <h2 class="mb-5">Experience</h2>
                     <div class="d-flex flex-column flex-md-row">
                         <div class="flex-grow-1">
+                            <h3 class="mb-0">Lead Software Engineer</h3>
+                            <div class="subheading mb-3">JPMorgan Chase</div>
+                            <p>Code Wrangler</p>
+                        </div>
+                        <div class="flex-shrink-0"><span class="text-primary">February 2023 - Present</span></div>
+                    </div>
+                    <div class="d-flex flex-column flex-md-row">
+                        <div class="flex-grow-1">
                             <h3 class="mb-0">Assosciate Software Engineer</h3>
                             <div class="subheading mb-3">JPMorgan Chase & Co.</div>
                             <p>Code Slinger</p>
                         </div>
-                        <div class="flex-shrink-0"><span class="text-primary">March 2021 - Present</span></div>
+                        <div class="flex-shrink-0"><span class="text-primary">March 2021 - February 2023</span></div>
                     </div>
                     <div class="d-flex flex-column flex-md-row justify-content-between mb-5">
                         <div class="flex-grow-1">
