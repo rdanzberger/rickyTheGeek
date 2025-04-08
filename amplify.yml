@@ -5,7 +5,6 @@ applications:
       phases:
         preBuild:
           commands:
-            - cd rickyTheGeek
             - npm ci
         build:
           commands:
