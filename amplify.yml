@@ -5,11 +5,8 @@ applications:
       phases:
         preBuild:
           commands:
-            # Install Node.js 18
-            - nvm install 18
-            - nvm use 18
-            # Install project dependencies
-            - npm install
+            - cd rickyTheGeek
+            - npm ci
         build:
           commands:
             # Build the application
