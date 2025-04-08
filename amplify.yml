@@ -1,17 +1,26 @@
-version: 1
-frontend:
-  phases:
-    preBuild:
-      commands:
-        - nvm install 18
-        - nvm use 18
-    build:
-      commands:
-        - npm run build
-  artifacts:
-    baseDirectory: /build
-    files:
-      - '**/*'
-  cache:
-    paths:
-      - node_modules/**/*np
+version: 1.0
+applications:
+  - appRoot: .
+    frontend:
+      phases:
+        preBuild:
+          commands:
+            # Install Node.js 18
+            - nvm install 18
+            - nvm use 18
+            # Install project dependencies
+            - npm install
+        build:
+          commands:
+            # Build the application
+            - npm run build
+      artifacts:
+        # The directory to store your built files (can be adjusted if your build directory is different)
+        baseDirectory: build
+        files:
+          - '**/*'
+      cache:
+        # Cache node_modules for faster build times
+        paths:
+          - node_modules/**/*
+
