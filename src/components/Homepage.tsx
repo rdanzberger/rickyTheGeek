@@ -82,7 +82,7 @@ const App: React.FC = () => {
                                 <div className="subheading mb-3">Master of Science in Computer Science</div>
                                 <div>Software Development Focus</div>
                             </div>
-                            <div className="flex-shrink-0"><span className="text-primary">August 2022 - Present</span></div>
+                            <div className="flex-shrink-0"><span className="text-primary">August 2022 - May 2025</span></div>
                         </div>
                         <div className="d-flex flex-column flex-md-row justify-content-between mb-5">
                             <div className="flex-grow-1">
